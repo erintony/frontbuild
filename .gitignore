@@ -1,0 +1,11 @@
+src/node_modules/
+src/input/node_modules/
+src/input/out
+
+
+
+node_modules
+
+.idea
+
+npm-debug.log
